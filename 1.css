@@ -1,0 +1,27 @@
+h1{
+    color: rgb(7, 105, 176);
+    text-align:justify;
+    padding:30px;
+}
+p{
+    padding:30px;
+    color:rgb(24, 24, 220);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:20px;
+
+   
+}
+.info{
+    height:95vh;
+    background-color: rgb(59, 218, 88);
+    text-align:left;
+}
+.a{
+    text-align: left;
+    padding:30px;
+}
+.button{
+    color: #dde2db;
+    background-color: rgb(24, 70, 222);
+    box-shadow: #690d3a;
+}
